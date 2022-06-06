@@ -1,2 +1,2 @@
-import model_training
+from trainer import model_training
 model_training.model_train()
